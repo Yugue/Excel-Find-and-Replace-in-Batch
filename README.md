@@ -1,7 +1,7 @@
-# vsto_find_replace
+# Excel-Find-and-Replace-in-Batch
 ## Find and replace in batch for Excel files in a selected directory add-in button written in VSTO C#
 
-*** Disclaimer: Although this add-in has been tested and proven to be working, all risks and responsabilities go to the user of the add-in.
+*** Disclaimer: Although this add-in has been tested and proven to be working, all risks and responsabilities go to the user of the add-in. This add-in  works only on windows.
 
 ![Demo](demo.gif)
 
